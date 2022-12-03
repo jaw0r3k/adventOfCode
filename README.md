@@ -1,0 +1,2 @@
+# adventOfCode
+Scriptis fot that
